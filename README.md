@@ -11,3 +11,8 @@ Run:
 mvn package
 java -jar target/sudoku-checker-1.0-SNAPSHOT.jar src/test/resources/valid.txt
 ```
+
+Report:
+```
+mvn site
+```
